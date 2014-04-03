@@ -15,8 +15,8 @@ public class Journey {
 	 * @param kilometers the distance traveled 
 	 */
 	public void addKilometers(double kilometers) {
-		//System.err.println(this.kilometers);
-		//System.err.println(kilometers);
+		System.err.println(this.kilometers);
+		System.err.println(kilometers);
 		this.kilometers += kilometers;
 	}
 
